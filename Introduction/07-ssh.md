@@ -24,6 +24,9 @@ Bir bilgisayardan diğerine uzaktan güvenli oturum açma yöntemi, SFTP(SSH fil
 
 # Useful Links
 
+[SSH - ssh.com](https://www.ssh.com/ssh/protocol/)
+[SSH File Transfer Protocol - Wikipedia](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol)
+
 ## Over the Wire: Bandit
 
 `$ find /tmp -name core -type f -print | xargs /bin/rm -f` - Find files named core in or below the directory /tmp and delete them.  Note that this will work incorrectly if there any filenames containing newlines, single or double quotes, or spaces.
