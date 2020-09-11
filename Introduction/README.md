@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png)
 
  - [x] Git - Version Control
- - [] Basic Terminal Usage
+ - [x] Basic Terminal Usage
  - [] Data Structures & Alghoritms
  - [] GitHub
  - [] Licenses
