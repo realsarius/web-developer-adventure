@@ -6,7 +6,7 @@
  - [x] GitHub
  - [x] Licenses
  - [ ] Semantic Versioning
- - [ ] SSH
+ - [x] SSH
  - [ ] HTTP/HTTPS and APIs
  - [ ] Design Patterns
  - [ ] Character Encodings
