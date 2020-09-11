@@ -2,11 +2,11 @@
 
  - [x] Git - Version Control
  - [x] Basic Terminal Usage
- - [] Data Structures & Alghoritms
+ - [ ] Data Structures & Alghoritms
  - [x] GitHub
  - [x] Licenses
- - [] Semantic Versioning
- - [] SSH
- - [] HTTP/HTTPS and APIs
- - [] Design Patterns
- - [] Character Encodings
+ - [ ] Semantic Versioning
+ - [ ] SSH
+ - [ ] HTTP/HTTPS and APIs
+ - [ ] Design Patterns
+ - [ ] Character Encodings
