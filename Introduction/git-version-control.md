@@ -1,51 +1,51 @@
 # Create repositories / Yeni bir depo oluştur
 
-'$ git init [project-name]' [//]: # "Create a new repository/Yeni bir depo oluştur"
+`$ git init [project-name]` [//]: # "Create a new repository/Yeni bir depo oluştur"
 
-'$ git add [file]'  [//]: # "add file inside your projects/Dosyayı projene ekle yani versiyon oluştur > . adds all"
+`$ git add [file]`  [//]: # "add file inside your projects/Dosyayı projene ekle yani versiyon oluştur > . adds all"
 
-'$ git commit -m"[descriptive message]"' [//]: # "Commit them to your local repository/Değişiklikleri lokal bilgisayarda kaydet"
+`$ git commit -m "[descriptive message]"` [//]: # "Commit them to your local repository/Değişiklikleri lokal bilgisayarda kaydet"
 
-'$ git status' [//]: # "Check the status of your repository/Depo'nun durumuna bak"
+`$ git status` [//]: # "Check the status of your repository/Depo'nun durumuna bak"
 
-'$ git clone' [//]: # "Clone a repository/Depoyu klonla"
+`$ git clone` [//]: # "Clone a repository/Depoyu klonla"
 
 
 # Branches / Dallar
 
-'$ git branch' [//]: # "List branches/Dalları listele"
+`$ git branch` [//]: # "List branches/Dalları listele"
 
-'$ git branch' [branch-name]' [//]: # "Create a new branch/Yeni bir dal oluştur"
+`$ git branch [branch-name]` [//]: # "Create a new branch/Yeni bir dal oluştur"
 
-'$ git checkout [branch-name]' [//]: # "Switch to that branch/O dala geç"
+`$ git checkout [branch-name]` [//]: # "Switch to that branch/O dala geç"
 
-'$ git merge [branch-name]' [//]: # "Merge with that branch/Orjinal projeyi o dalla birleştir"
+`$ git merge [branch-name]` [//]: # "Merge with that branch/Orjinal projeyi o dalla birleştir"
 
-'$ git branch -d [branch-name]' [//]: # "Delete the branch/O dalı sil"
+`$ git branch -d [branch-name]` [//]: # "Delete the branch/O dalı sil"
 
 
 # Synchronize changes/Değişiklikleri senkronize et
 
-'$ git fetch'
+`$ git fetch`
 
-'$ git merge'
+`$ git merge`
 
-'$ git push'
+`$ git push`
 
-'$ git pull'
+`$ git pull`
 
 
 
 # History / Geçmiş
 
-'$ git log' [//]: # "History/Geçmiş"
+`$ git log` [//]: # "History/Geçmiş"
 
-'$ git log --follow [file]' [//]: # "History for specific file or foler/O dosyanın ya da klasörün geçmişine bak"
+`$ git log --follow [file]` [//]: # "History for specific file or foler/O dosyanın ya da klasörün geçmişine bak"
 
-'$ git diff [first-branch]...[second-branch]' [//]: # "Differences between branches/Dallar arasındaki değişiklikler"
+`$ git diff [first-branch]...[second-branch]` [//]: # "Differences between branches/Dallar arasındaki değişiklikler"
 
 
-'$ git show [commit]' [//]: # "That commit's history/O commit'in geçmişi"
+`$ git show [commit]` [//]: # "That commit's history/O commit'in geçmişi"
 
 
  ---
