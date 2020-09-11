@@ -3,8 +3,8 @@
  - [x] Git - Version Control
  - [x] Basic Terminal Usage
  - [] Data Structures & Alghoritms
- - [] GitHub
- - [] Licenses
+ - [x] GitHub
+ - [x] Licenses
  - [] Semantic Versioning
  - [] SSH
  - [] HTTP/HTTPS and APIs
