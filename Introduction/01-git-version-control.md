@@ -55,4 +55,5 @@
 
 ## Useful Links
 
-[Git Cheat Sheets](https://training.github.com/)
+[Git Cheat Sheet - Git](https://training.github.com/)
+[Git Cheat Sheet - Education GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
