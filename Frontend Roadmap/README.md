@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
 
 - [ ] Internet
-  - [ ] How does the internet work?
+  - [x] How does the internet work?
   - [ ] What is HTTP?
   - [ ] Browsers and how they work?
   - [ ] DNS and how it works?
