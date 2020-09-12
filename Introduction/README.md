@@ -5,8 +5,8 @@
  - [ ] Data Structures & Alghoritms
  - [x] GitHub
  - [x] Licenses
- - [ ] Semantic Versioning
+ - [x] Semantic Versioning
  - [x] SSH
- - [ ] HTTP/HTTPS and APIs
+ - [x] HTTP/HTTPS and APIs
  - [ ] Design Patterns
  - [ ] Character Encodings
