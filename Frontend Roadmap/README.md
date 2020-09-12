@@ -1,5 +1,3 @@
-![image](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
-
 - [ ] Internet
   - [x] How does the internet work?
   - [ ] What is HTTP?
@@ -34,3 +32,7 @@
   - [ ] Learn DOM Manipulation
   - [ ] Learn Fetch API / Ajax (XHR)
   - [ ] ES6+ and modular JavaScript
+ 
+ ---
+  
+  ![image](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
