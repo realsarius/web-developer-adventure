@@ -8,5 +8,5 @@
  - [x] Semantic Versioning
  - [x] SSH
  - [x] HTTP/HTTPS and APIs
- - [ ] Design Patterns
- - [ ] Character Encodings
+ - [x] Design Patterns
+ - [x] Character Encodings
