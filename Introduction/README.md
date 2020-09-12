@@ -2,7 +2,7 @@
 
  - [x] Git - Version Control
  - [x] Basic Terminal Usage
- - [ ] Data Structures & Alghoritms
+ - [x] Data Structures & Alghoritms
  - [x] GitHub
  - [x] Licenses
  - [x] Semantic Versioning
