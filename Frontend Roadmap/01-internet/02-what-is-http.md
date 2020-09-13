@@ -67,3 +67,13 @@ Request does not have what it needs - Server needs name field
 Server failed to fulfil an apparent valid request
 
 >200 - OK<br>201 - OK created<br>301 - Moved to new URL<br>304 - Not modified<br>400 - Bad Request<br>401 - Unauthorized<br>404 - Not foundation<br>500 - Internal server error
+
+>1xx     Bilgi<br>2xx     Başarı<br>3xx     Yönlendirme<br>4xx     Tarayıcı Hatası<br>5xx     Sunucu Hatası
+
+---
+
+## Useful Links
+
+[HTTP nedir ?](https://medium.com/@ustamustam/http-nedir-c9858c2b1a4c)
+
+[HTTP - Wikipedia](https://tr.wikipedia.org/wiki/HTTP)
