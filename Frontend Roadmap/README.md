@@ -1,9 +1,9 @@
 - [ ] Internet
   - [x] How does the internet work?
-  - [ ] What is HTTP?
-  - [ ] Browsers and how they work?
-  - [ ] DNS and how it works?
-  - [ ] What is Domain Name?
+  - [x] What is HTTP?
+  - [x] Browsers and how they work?
+  - [x] DNS and how it works?
+  - [x] What is Domain Name?
   - [ ] What is hosting?
 
 
@@ -32,7 +32,7 @@
   - [ ] Learn DOM Manipulation
   - [ ] Learn Fetch API / Ajax (XHR)
   - [ ] ES6+ and modular JavaScript
- 
+
  ---
-  
+
   ![image](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
