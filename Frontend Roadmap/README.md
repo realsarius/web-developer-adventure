@@ -1,10 +1,10 @@
-- [ ] Internet
+- [x] Internet
   - [x] How does the internet work?
   - [x] What is HTTP?
   - [x] Browsers and how they work?
   - [x] DNS and how it works?
   - [x] What is Domain Name?
-  - [ ] What is hosting?
+  - [x] What is hosting?
 
 
 - [ ] HTML
