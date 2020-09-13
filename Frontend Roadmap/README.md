@@ -9,7 +9,7 @@
 
 - [ ] HTML
   - [x] Learn the basics
-  - [ ] Writing Semantic HTML
+  - [x] Writing Semantic HTML
   - [ ] Forms and Validations
   - [ ] Conventions and Best Practices
   - [ ] Accessibility
