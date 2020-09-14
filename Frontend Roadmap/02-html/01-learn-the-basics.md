@@ -2,7 +2,6 @@
 
 ## What is HTML?
 
-
 - HTML stands for `Hyper Text Markup Language`
 - HTML is the standard markup language for creating Web pages
 - HTML describes the structure of a Web page
@@ -164,6 +163,10 @@ The HTML style attribute is used to add styles to an element, such as color, fon
   <li>Tea</li>
   <li>Milk</li>
 </ol>  
+
+`<hr>` - Horizontal rule
+`<br>` - New line
+`<blockquote cite="https://www.oscarwildesite.com"> ... `
 
 ---
 
