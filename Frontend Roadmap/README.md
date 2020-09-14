@@ -44,7 +44,7 @@
     - [ ] ~~Bitbucket~~
 
 
-- [ ] ~~Web Security Knowledge~~~~
+- [ ] ~~Web Security Knowledge~~
   - [ ] ~~Get at least a basic Knowledge of all of these~~
     - [ ] ~~HTTPS~~
     - [ ] ~~Content Security Policy~~
