@@ -7,13 +7,13 @@
   - [x] What is hosting?
 
 
-- [ ] HTML
+- [x] HTML
   - [x] Learn the basics
   - [x] Writing Semantic HTML
   - [x] Forms and Validations
   - [x] Conventions and Best Practices
-  - [ ] Accessibility
-  - [ ] SEO basics
+  - [x] Accessibility
+  - [x] SEO basics
 
 
 - [ ] CSS
