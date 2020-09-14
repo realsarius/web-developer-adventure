@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Main Page</title>
+</head>
+<body>
+    <h1>HTML Forms</h1>
+    <form action="">
+        <!-- Texts for the form -->
+        <label for="username">Username: </label>
+        <input type="text" id="username" name="username" placeholder="Username" required>
+        <br><br>
+        <label for="email">E-mail: </label>
+        <input type="email" id="email" name="email" placeholder="E-mail" required>
+        <br><br>
+        <label for="password">Password: </label>
+        <input type="password" id="password" name="password" placeholder="Password" required>
+        <br><br>
+        <p>Select your age:</p>
+        <!-- Radio buttons for the form -->
+        <input type="radio" name="age" id="age-option-1" value="0-25">
+        <label for="age-option-1">0-25</label>
+        <input type="radio" name="age" id="age-option-2" value="26-45">
+        <label for="age-option-2">26-45</label>
+        <input type="radio" name="age" id="age-option-3" value="45+">
+        <label for="age-option-3">45+</label>
+
+        <br><br>
+
+        <p>Select your gender:</p>
+        <input type="radio" name="gender" value="male" id="gender-option-1">
+        <label for="gender-option-1">Male</label>
+        <input type="radio" name="gender" value="female" id="gender-option-2">
+        <label for="gender-option-2">Female</label>
+        <input type="radio" name="gender" value="other" id="gender-option-3">
+        <label for="gender-option-3">Other</label>
+
+        <br><br>
+        <!-- Security question for the form -->
+        <label for="">Security question:</label>
+        <select name="question" id="question">
+            <option value="q1">Your dog's name</option>
+            <option value="q2">Your high school's name</option>
+            <option value="q3">Your favorite food's name</option>
+        </select>
+
+        <br><br>
+
+        <label for="security">Security question answer:</label>
+        <input type="text" name="security" id="security" placeholder="Enter your answer please">
+
+        <br><br>
+        <!-- Textarea for the form -->
+        <label for="bio">Your bio:</label><br>
+        <textarea name="" id="bio" cols="30" rows="10" placeholder="About you..."></textarea>
+
+        <br><br>
+        <!-- Submit button -->
+        <button type="submit" id="button" name="button">Submit</button>
+    </form>
+</body>
+</html>
