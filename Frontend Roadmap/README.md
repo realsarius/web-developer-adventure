@@ -11,7 +11,7 @@
   - [x] Learn the basics
   - [x] Writing Semantic HTML
   - [x] Forms and Validations
-  - [ ] Conventions and Best Practices
+  - [x] Conventions and Best Practices
   - [ ] Accessibility
   - [ ] SEO basics
 
