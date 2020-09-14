@@ -25,7 +25,7 @@
     - [ ] Box Model
     - [ ] CSS Grid
     - [ ] Flex Box
-    - [ ] Responsive design and Media Queries
+  - [ ] Responsive design and Media Queries
 
 
 - [ ] JavaScript
