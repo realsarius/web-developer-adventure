@@ -17,10 +17,10 @@
 
 
 - [ ] CSS
-  - [ ] Learn the basics
+  - [x] Learn the basics
   - [ ] Making Layouts
-    - [ ] Floats
-    - [ ] Positioning
+    - [x] Floats
+    - [x] Positioning
     - [ ] Display
     - [ ] Box Model
     - [ ] CSS Grid
