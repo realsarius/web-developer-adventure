@@ -21,8 +21,8 @@
   - [ ] Making Layouts
     - [x] Floats
     - [x] Positioning
-    - [ ] Display
-    - [ ] Box Model
+    - [x] Display
+    - [x] Box Model
     - [ ] CSS Grid
     - [ ] Flex Box
   - [ ] Responsive design and Media Queries
