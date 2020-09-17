@@ -18,13 +18,13 @@
 
 - [ ] CSS
   - [x] Learn the basics
-  - [ ] Making Layouts
+  - [x] Making Layouts
     - [x] Floats
     - [x] Positioning
     - [x] Display
     - [x] Box Model
-    - [ ] CSS Grid
-    - [ ] Flex Box
+    - [x] CSS Grid
+    - [x] Flex Box
   - [ ] Responsive design and Media Queries
 
 
