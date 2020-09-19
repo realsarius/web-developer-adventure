@@ -1,5 +1,21 @@
 # Introduction
 
+**İnternet, bağlantılı bilgisayarlardan oluşan dünya çapında bir ağdır. Bu bilgisayarların her biri birbiriyle belirli bir formatta iletişim kurabilir.**
+
+**Paketler internetin bilgisidir. Paketler, gönderenden alıcıya, iletişim için gerekli tüm bilgileri içeren belirli bir formatta gönderilir.**
+
+**Web sayfası, tarayıcınızda baktığınız sayfadır. Web sunucusu, web sayfasının nasıl görünmesi ve davranması gerektiğine ilişkin kodu içeren bilgisayardır. Web tarayıcısı, web sayfalarını görüntüleyen bir bilgisayardaki programdır. Arama motoru, bilgi için diğer tüm web sunucularını arayan bir web sunucusudur. Bir kullanıcı daha sonra web sayfasını web tarayıcısında açabilir ve bir site arayabilir.**
+
+**İstemci, bir sunucudan bilgi isteyen bir bilgisayar veya internet cihazıdır.**
+
+**Sunucu, istemciden istekleri (paketler halinde) alan ve uygun verilerle yanıt veren bir bilgisayardır.**
+
+**IP adresleri özel bir kimlik, internete erişimi olan her bir makinenin IP adresi var.**
+
+**DNS Sunucuları, internetin "telefon rehberi" dir. Alan adlarını IP adreslerine çevirirler.**
+
+---
+
 ISP = Internet Service Provider
 IP = Internet Protocol
 
