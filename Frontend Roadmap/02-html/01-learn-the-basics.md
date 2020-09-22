@@ -178,3 +178,4 @@ This is enough for now.
 # Useful Links
 
 [HTML Tutorial - W3Schools](https://www.w3schools.com/html/default.asp)
+[HTML elements reference - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
